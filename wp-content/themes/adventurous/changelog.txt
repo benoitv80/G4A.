@@ -1,0 +1,116 @@
+== Changelog ==
+
+Version 1.8.1
+* Bug Bixed: broken link for upgrade to pro button
+* Improved fixed header js and css
+
+Version 1.8
+* Added Danish translation da_DK.po and da_DK.mo files
+* Bug Fixed: Footer overflow issue in Safari and mobile devices
+
+Version 1.7.1
+* Bug Fixed: Predefined social icon in theme customizer
+* Bug Fixed: Warning fixed on saving Featured Content ( Reported by animaladvocacy )
+
+Version 1.7
+* Added all theme options to customizer
+* Compatible with WordPress 4.3
+* Removed support for WordPress version less than 4.1
+* Updated codes to comply with deprecating PHP4 style constructors in WordPress 4.3
+
+Version 1.6.2
+* Bug Fixed: Layout of Error 404 and No Result Found page
+* Bug Fixed: Footer widget issue in Mobile devices ( Reported By Haydie )
+* Bug Fixed: Masthead content issue when scrolling down ( Reported By Haydie ) 
+* Updated Brazilian Portuguese translation pt_BR.po and pt_BR.mo
+
+Version 1.6.1
+* Removed jQuery waypoint script
+* Updated custom scripts to fix the fixed header issue
+
+Version 1.6
+* Added search result template for better search result display
+* Bug Fixed: Style for WP-PageNavi plugin
+* Updated jquery waypoint to version 3.1.1
+** Added jquery.waypoints.js and jquery.waypoints.min.js
+** Removed waypoints.js and waypoints.min.js
+** Updated adventurous-custom.js and adventurous-custom.min.js
+
+Version 1.5
+* Added Polish translation pl_PL.po and pl_PL.mo
+* Added More theme options button in Customizer
+* Updated media uploader to new version in theme options
+
+Version 1.4
+* Added title tag via add theme support
+* Bug Fixed: Featured Header image conditions
+* Bug Fixed: Changed content width to 800px
+
+Version 1.3
+* Added German translation de_DE.po and de_DE.mo
+* Removed shortcodes
+* Replaced get_bloginfo('url') to admin_url() to link to Theme Options panel
+
+Version 1.2
+* Added meetup social icon
+* Added changelog.txt file which list the theme change log
+* Changed footer theme content 
+* Fixed header top position issue
+* Replaced screenshot.jpg with screenshot.png 
+* Removed rem in font size css
+
+Version 1.1
+* Added Dutch translation nl_NL.po and nl_NL.mo
+* Added contact social links options
+* Added Xing in social links options
+* Fixed fixed header scroll issue
+* Fixed scroll up issue in mobile devices
+
+Version 1.0
+* Added email in social link option
+* Added Scroll Up script
+* Added minifed custom script adventurous-custom.min.js
+
+Version 0.8
+* Fixed Featured Content 3 column layout css
+* Fixed Header Right Menu Drop Down issue
+* Optimized Theme Options panel to speed up
+
+Version 0.7
+* Remove blog page template page-blog.php 
+Note: Now to setup of Page as blog, go to "Settings => Readings". In Front page displays, check "A static page (select below)" and select your blog from "Posts page:" select box.
+
+Version 0.6
+* Fixed Featured Content Sub-headline showing repeat headline ( Reported by Jessica )
+
+Version 0.5
+* Added Hungarian translation hu_HU.po and hu_HU.mo
+* Removed rem in width, padding and margins, now only in font sizes css
+
+Version 0.4
+* Added Brazilian Portuguese translation pt_BR.po and pt_BR.mo
+
+Version 0.3
+* Added background and text color in promotion wrapper in style.css
+* Changed to Favicon disable by default 
+* Fixed content width
+* Fixed mobile menu css
+* Removed feed redirect option
+* Removed unnecessary option to disable header menu
+
+Version 0.2
+* Added slider navigation arrow and fixed slider CSS
+* Changed theme description
+* Changed footer credit
+* Removed unused slider codes
+* Fixed Header Image option in page/post layout
+* Fixed author css
+* Fixed footer widget css in mobile devices
+* Fixed secondary menu issue in mobile devices
+* Fixed header css
+* Fixed iPad Portrait CSS
+
+
+Version 0.1
+* Initial release in http://catchthemes.com
+* Submitted theme for review in http://wordpress.org
